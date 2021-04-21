@@ -7,7 +7,10 @@ Key lessons learned:
 - Moving a project from Remix to Truffle
 - deploying with Truffle
 - Contract Inheritance
+- Storage Design Patterns
 - Open Zeppelin to work with ERC20, ERC721 and MathSafe
-- Debugging
+- Debugging and error handling
+- Gas Consumption
+- Contract Security
 - Test driven development with Truffle
 - Logic with order books
